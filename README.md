@@ -1,4 +1,4 @@
-<h1>C P H O D E 🔱</h1>
+<h1> cphode 3:) </h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918534388990480454?theme=blue&bg=black&animated=false&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/918534388990480454)
 
