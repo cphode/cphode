@@ -1,6 +1,6 @@
 <h1> cphode </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918534388990480454?theme=blue&bg=black&animated=false&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/918534388990480454)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/990734020365152287?theme=blue&bg=black&animated=false&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/918534388990480454)
 
 <div>
     <div>
