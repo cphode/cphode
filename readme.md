@@ -9,6 +9,4 @@
 
 📩・**Want to reach? Add cphode#0001 on [discord](https://discord.gg/kuyu) or mail cphode@gmail.com**
 
-🌐・**Discord Server: [Kuyu](https://discord.gg/kuyu)**
-
 <a href="https://discord.gg/kuyu" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
