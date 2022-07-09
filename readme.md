@@ -7,6 +7,6 @@
     <img src="https://count.getloli.com/get/@:aw3rque?theme=clay17k" alt=":clay17k" height="120px"/>
 <div>
 
-📩・**Want to reach? Add cphode#0001 on [discord](https://discord.gg/kuyu) or mail cphode@gmail.com**
+📩・**Want to reach? Add silence#0035 or mail cphode@gmail.com**
 
 <a href="https://discord.gg/kuyu" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
